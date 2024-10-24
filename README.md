@@ -23,7 +23,6 @@ This is a full-stack E-Commerce platform built using the MERN (MongoDB, Express.
 ### Prerequisites
 
 Ensure you have the following installed:
-
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Stripe Account](https://stripe.com/)
